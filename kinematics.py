@@ -4,7 +4,7 @@
 A small project to build intuition for forward and inverse kinematics,
 the math used to control robotic arms (including surgical/medical robots).
 
-Author: [Your Name]
+Author: Sara Phondge 
 """
 
 import numpy as np
