@@ -87,4 +87,4 @@ interact(plot_arm,
   VS Code. Fixed by upgrading matplotlib and installing the Jupyter widget
   renderer extension. Good reminder that environment setup is its own skill,
   separate from the actual coding logic.
-# Robotic-arm-kinematics-simulator-2D-
+
