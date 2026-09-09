@@ -69,12 +69,12 @@ interact(plot_arm,
 - [x] **Forward kinematics** — calculate elbow/hand position from joint angles
 - [x] **Static visualization** — draw the arm with matplotlib
 - [x] **Interactive sliders** — move the arm live with ipywidgets
-- [ ] **Inverse kinematics** — given a target (x, y), solve for the joint angles
+- [x] **Inverse kinematics** — given a target (x, y), solve for the joint angles
       needed to reach it (the harder, more practically useful direction —
       this is closer to how a surgeon or operator would specify "move the
       instrument tip here")
-- [ ] Add joint angle constraints (realistic robots can't bend infinitely)
-- [ ] Extend to a 3-link arm
+- [x] Add joint angle constraints (realistic robots can't bend infinitely)
+- [x] Extend to a 3-link arm
 
 ## Notes / things I learned
 
